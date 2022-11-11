@@ -1,0 +1,1 @@
+this is a collection of algorithm's found on leet code. This also contains problems statements and an explaination of the code

@@ -1,0 +1,3 @@
+const makeSimilar = (nums, target) => {
+
+}
