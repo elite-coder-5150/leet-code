@@ -1,36 +1,38 @@
 # Summary
 
-Date : 2022-11-04 19:55:55
+Date : 2022-11-17 02:42:05
 
 Directory /Users/darrellparkhouse/projects/leet-code
 
-Total : 67 files,  1581 codes, 469 comments, 302 blanks, all 2352 lines
+Total : 85 files,  2046 codes, 685 comments, 366 blanks, all 3097 lines
 
 Summary / [Details](details.md) / [Diff Summary](diff.md) / [Diff Details](diff-details.md)
 
 ## Languages
 | language | files | code | comment | blank | total |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| JavaScript | 57 | 1,379 | 445 | 257 | 2,081 |
-| Java | 4 | 94 | 0 | 33 | 127 |
+| JavaScript | 73 | 1,828 | 661 | 318 | 2,807 |
+| Java | 5 | 109 | 0 | 36 | 145 |
 | XML | 3 | 87 | 0 | 0 | 87 |
 | SQL | 2 | 21 | 14 | 8 | 43 |
+| Markdown | 1 | 1 | 0 | 0 | 1 |
 | Python | 1 | 0 | 10 | 4 | 14 |
 
 ## Directories
 | path | files | code | comment | blank | total |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| . | 67 | 1,581 | 469 | 302 | 2,352 |
+| . | 85 | 2,046 | 685 | 366 | 3,097 |
 | .idea | 3 | 87 | 0 | 0 | 87 |
-| Java | 3 | 92 | 0 | 32 | 124 |
+| Java | 4 | 107 | 0 | 35 | 142 |
 | Java/hard | 1 | 15 | 0 | 7 | 22 |
-| Java/medium | 2 | 77 | 0 | 25 | 102 |
+| Java/medium | 3 | 92 | 0 | 28 | 120 |
 | code-for-datastructures | 3 | 22 | 10 | 9 | 41 |
 | data-structures | 4 | 207 | 2 | 59 | 268 |
 | databases | 2 | 21 | 14 | 8 | 43 |
-| easy | 33 | 636 | 305 | 95 | 1,036 |
-| hard | 7 | 205 | 95 | 32 | 332 |
-| medium | 11 | 309 | 43 | 66 | 418 |
-| medium/coderbytes | 3 | 69 | 9 | 18 | 96 |
+| easy | 40 | 802 | 400 | 121 | 1,323 |
+| hard | 13 | 427 | 209 | 59 | 695 |
+| hard/directed-graph | 4 | 176 | 65 | 25 | 266 |
+| medium | 14 | 370 | 50 | 74 | 494 |
+| medium/coderbytes | 3 | 78 | 0 | 18 | 96 |
 
 Summary / [Details](details.md) / [Diff Summary](diff.md) / [Diff Details](diff-details.md)
