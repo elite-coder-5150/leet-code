@@ -48,8 +48,6 @@ const _summaryRanges = (nums) => {
         part.pop();
         part = []
         part.push(nums[i]);
-        
-        }
     }
 
     if (part.length > 1) {
